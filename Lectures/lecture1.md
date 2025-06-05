@@ -123,8 +123,8 @@ Modern Computer uses both n-type and p-type transistors i-e Complementary MOS ca
 
 #### :mag_right: Logic Circuits:
 A logic circuit is composed of:
-**1**- Inputs
-**2**- Outputs
+- **1** Inputs
+- **2** Outputs
 **Functional Specificaiton** describes the relationship between inputs and outputs.
 **Timing Specification** describes the delay between inputs changing and outputs responding.
 
